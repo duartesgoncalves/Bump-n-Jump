@@ -1,4 +1,4 @@
-# Projeto Bumo'n Jump
+# Projeto BumP'n Jump
 ## FPRO/LEIC, 2021/22
 ## Duarte Gonçalves (up202108772)
 ## 1LEIC12
