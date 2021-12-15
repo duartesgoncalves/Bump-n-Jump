@@ -1,6 +1,6 @@
 # Projeto BumP'n Jump
 ## FPRO/LEIC, 2021/22
-## Duarte Gonçalves (up202108772)
+## Duarte Francisco Sousa Gonçalves (up202108772)
 ## 1LEIC12
 
 ### Objetivo
